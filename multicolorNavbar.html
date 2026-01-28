@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MULTI_COLOR NAVBAR</title>
+    <style>
+     :root{
+        --color:pink;
+        --seccolor:blue;
+     }
+    
+    .nav {
+    background-color: var(--color);
+    color: var(--seccolor);
+    height: 50px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    height: 100%;
+    margin: 0;
+    padding: 16px;
+}
+
+.nav ul li {
+    cursor: pointer;
+    transition: all 0.3s ease; 
+}
+
+.nav ul li:hover {
+    color: white;
+    background-color: black;
+    padding: 5px 12px;
+    border-radius: 5px;
+}
+</style>
+
+</head>
+<body>
+    <div class="nav">
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact US</li>
+            </ul>
+        </nav>
+    </div>
+</body>
+</html>
