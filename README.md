@@ -1,4 +1,6 @@
 # web_development_course
 programs by using html,css,js<br>
-1)Student Registration form (by using html and css)
+1)Student Registration form (by using html and css)<br>
+2)Simple Card design (by using html and css styling)
+
 author->priya pandey
