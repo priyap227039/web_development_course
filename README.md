@@ -2,6 +2,7 @@
 programs by using html,css,js<br>
 1)Student Registration form (by using html and css)(exercise-1)<br>
 2)Simple Card design (by using html and css styling)(exercise-2)<br>
-3)Simple multi color nav bar by using css.(exercise-3)
+3)Simple multi color nav bar by using css.(exercise-3)<br>
+4)Simple Layout Design using by css(exercise-4)
 
 author->priya pandey
