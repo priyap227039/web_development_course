@@ -5,6 +5,8 @@ programs by using html,css,js<br>
 3)Simple multi color nav bar by using css.(exercise-3)<br>
 4)Simple Layout Design using by css(exercise-4)<br>
 5)A simple navbar by using flexbox property (file-name is ->flex.html)(exercise-5)<br>
-6)A simple body  of a website by using grid property(exercise 6)
+6)A simple body  of a website by using grid property(exercise 6)<br>
+7)A simple HTML and CSS project that shows a bouncing animation of a ball inside a box.
+
 
 author->priya pandey
